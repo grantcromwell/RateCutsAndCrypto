@@ -1,0 +1,37 @@
+{
+  "analysis_date": "2026-01-27 17:03:39",
+  "data_range": {
+    "start": "2020-01-02",
+    "end": "2026-01-26",
+    "n_observations": 2215
+  },
+  "current_regime": "cut",
+  "regime_signals": {},
+  "correlation_trends": {
+    "hold": 0.005718842227506094,
+    "hike": 0.014171883845779784,
+    "cut": 0.24429486884859125
+  },
+  "signal_performance": {
+    "HOLD": {
+      "annualized_return": 0.029249157532248216,
+      "sharpe_ratio": 0.042822139377685225,
+      "volatility": 0.6830382124133214,
+      "n_signals": 2156
+    },
+    "buy_and_hold": {
+      "annualized_return": 0.08451843570054196,
+      "sharpe_ratio": 0.12377771809628559,
+      "volatility": 0.6828243160436664,
+      "n_signals": 2215
+    }
+  },
+  "best_signal": {
+    "signal": "buy_and_hold",
+    "annualized_return": 0.08451843570054196,
+    "sharpe_ratio": 0.12377771809628559,
+    "volatility": 0.6828243160436664,
+    "n_signals": 2215
+  },
+  "plot_paths": []
+}
